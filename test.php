@@ -1,3 +1,5 @@
 <?php 
 	echo "tornike";
-	echo "123";
+	
+	
+	print_r($_POST);
